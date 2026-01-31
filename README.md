@@ -1,6 +1,8 @@
 # NYSE-Stock-Anomaly-Detection
 NYSE Stock Anomaly Detection / Обнаружение аномалий в акциях NYSE
 
+[![Open in NBViewer](https://img.shields.io/badge/Open%20Notebook-NBViewer-orange?logo=jupyter&logoColor=orange)](https://nbviewer.org/github/VeronikaKolimova/NYSE-Stock-Anomaly-Detection/blob/main/Lab_01.ipynb)
+
 ##  Project Overview
 This project applies machine learning techniques to detect anomalous companies in the NYSE dataset based on their financial ratios. Using an ensemble of four anomaly detection algorithms, we identify companies with unusual financial behavior that may require further investigation.
 
